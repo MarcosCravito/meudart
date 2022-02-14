@@ -1,0 +1,10 @@
+
+void main(){
+    CODIGOS BÁSICOS DART
+
+    //VÁRIAVEIS E SEUS TIPOS;
+    //CONSTANTE;
+    //OPERADORES NUMERICOS ( +,/,-,*);
+    //INTERAÇÃO COM USUARIO;
+    //CONVERSÃO DE NUMERO;
+}
